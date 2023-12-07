@@ -8,7 +8,7 @@
 using namespace std;
 
 int main(){
-    int a = 1 + rand() % 20;//creando 3 variables aleatorias
+    int a = 1 + rand() % 30;//creando 3 variables aleatorias
     int b = 1 + rand() % 20;
     int c = 1 + rand() % 20;
     int arreglo[b][a][c];//iniciando un arreglo de 3 dimensiones
